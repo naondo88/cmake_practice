@@ -6,7 +6,7 @@ I think the only way to make progress here is just to itemize this into 6 differ
 
 ## Build the following with purely CMake (no conan)
 1. Write and build an app
-    1. Tutorial: https://www.dynamsoft.com/codepool/cc-barcode-app-cmake-windows.html
+    1. Tutorial: [https://www.dynamsoft.com/codepool/cc-barcode-app-cmake-windows.html](cpp app with cmake)
 1. Write and build an app with tests
 1. Write and build an app with static lib
 1. Write and build a dynamic lib
